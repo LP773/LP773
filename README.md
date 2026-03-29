@@ -25,6 +25,6 @@ I have some familiarity with HTML, JavaScript, CSS, and Python.
 ---
 ### 🤪 Personal Projects:
 - [Bill Splitter](https://lp773.github.io/BS)
-- [Auction Bid Calculator](https://lp773.github.io/ABC)
+- [Auction Fee Calculator](https://lp773.github.io/AFC)
 
 
