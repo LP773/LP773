@@ -30,6 +30,6 @@ I have some familiarity with HTML, JavaScript, CSS, and Python.
 ---
 ### 🤪 Personal Projects:
 - [Bill Splitter](https://lp773.github.io/BS)
-- [Auction Fee Calculator](https://lp773.github.io/AFC)
+- [Auction Calculator](https://lp773.github.io/AC)
 
 
